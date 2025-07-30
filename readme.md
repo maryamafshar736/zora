@@ -5,7 +5,6 @@ If you wish to read the documentation for the older version v4, please refer to 
 All the projects related to [zora](./zora), the testing library
 
 * [zora](./zora): the testing library
-* [zora-reporters](./reporters): a set of reporters (can be used as a CLI)
 * [pta](./pta): A test runner (used with a Command Line Interface) for Nodejs environment
 
 The repo also comes with
