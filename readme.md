@@ -11,8 +11,6 @@ The repo also comes with
 
 ## Goals
 
-Zora is one of the lightest (if not the lightest), yet one of the fastest Javascript testing library (if not the fastest).
-
 Its design principles follow the line:
 
 * Runs with any Javascript environment ([Nodejs](https://nodejs.org/en/), [Deno](https://deno.land/), Browser ): you don't need any specific test runner to run your testing program, it is _just_ a regular javascript program
